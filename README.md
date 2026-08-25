@@ -67,10 +67,10 @@ A responsive healthcare website built with a clean and structured interface.
 ## Connect
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/humoyun14uz/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/humoyun14uz">
+  <a href="https://www.instagram.com/maydamyo_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
 </p>
