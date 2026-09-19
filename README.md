@@ -57,7 +57,14 @@ A responsive healthcare website built with a clean and structured interface.
 
 ## GitHub Stats
 
-[![Humoyun's GitHub stats](https://vercel.app)](https://github.com)
+<p align="center">
+  <img src="https://vercel.app" alt="Humoyun's GitHub Stats" />
+  <img src="https://vercel.app" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Humoyun's Trophies" />
+</p>
 
 
 ---
