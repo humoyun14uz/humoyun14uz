@@ -2,9 +2,9 @@
 
 ### Full-Stack Developer · JavaScript & TypeScript Enthusiast
 
-I build modern, responsive, and scalable web applications with a focus on clean code, accessible user interfaces, and practical digital experiences.
+I build modern, responsive, and scalable web applications with a focus on clean architecture, maintainable code, accessible interfaces, and practical digital experiences.
 
-I enjoy turning ideas into real products, exploring new technologies, and continuously improving my development workflow.
+I enjoy turning ideas into real products, working across the frontend and backend, and continuously improving my development workflow.
 
 <p align="left">
   <a href="https://github.com/humoyun14uz">
@@ -20,27 +20,67 @@ I enjoy turning ideas into real products, exploring new technologies, and contin
 ## About Me
 
 - 🚀 Building responsive and user-focused web applications
-- ⚛️ Developing modern interfaces with React
-- 🔧 Creating backend services and REST APIs with Node.js
-- 🧠 Strengthening my skills in TypeScript and full-stack development
-- 🧹 Interested in clean architecture, maintainable code, and great UX
+- ⚛️ Creating modern interfaces with React and Next.js
+- 🔧 Developing backend services and REST APIs with Node.js
+- 🗄️ Working with relational and NoSQL databases
+- 🧠 Applying clean code, reusable architecture, and scalable patterns
+- 🧪 Interested in testing, performance, security, and developer experience
 - 📚 Always learning, building, and improving
 
 ---
 
 ## Tech Stack
 
-### Frontend
+### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,tailwind" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,sql,bash" alt="Programming languages" />
 </p>
 
-### Backend & Tools
+`JavaScript` · `TypeScript` · `Python` · `SQL` · `Bash`
+
+### Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode" alt="Backend and tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,sass,tailwind,redux" alt="Frontend technologies" />
 </p>
+
+`HTML5` · `CSS3` · `React` · `Next.js` · `Sass` · `Tailwind CSS` · `Redux`
+
+### Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi" alt="Backend technologies" />
+</p>
+
+`Node.js` · `Express.js` · `NestJS` · `REST APIs` · `FastAPI` · `Authentication` · `Authorization`
+
+### Databases & Data Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" alt="Databases and data tools" />
+</p>
+
+`PostgreSQL` · `MongoDB` · `Redis` · `Prisma` · `Database Design` · `SQL Queries`
+
+### DevOps, Testing & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,jest,postman,vscode" alt="DevOps, testing, and development tools" />
+</p>
+
+`Git` · `GitHub` · `Docker` · `Linux` · `Nginx` · `Jest` · `Postman` · `VS Code`
+
+### Engineering Practices
+
+- RESTful API design and API documentation
+- Responsive design and accessibility
+- Component-based architecture
+- Database modeling and data validation
+- Error handling and secure authentication
+- Unit testing and API testing
+- Git workflows and clean commit history
+- Basic CI/CD and deployment workflows
 
 ---
 
@@ -60,7 +100,7 @@ A responsive healthcare website with a clean interface and structured user exper
 
 ## Currently Learning
 
-`Advanced JavaScript` · `TypeScript` · `React` · `Node.js` · `REST APIs` · `Full-Stack Development`
+`Advanced TypeScript` · `Next.js` · `NestJS` · `PostgreSQL` · `Docker` · `Testing` · `System Design` · `Cloud Deployment`
 
 ---
 
