@@ -151,11 +151,12 @@ A responsive healthcare website built with a clean interface and structured user
 ---
 
 ## GitHub Statistics
-
+ <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=humoyun14uz&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Humoyun's GitHub statistics" /> </p>
 <p
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humoyun14uz&layout=compact&hide_border=true&theme=tokyonight" alt="Humoyun's top languages" />
 </p>
 
+<p align="center"> <img src="https://streak-stats.demolab.com?user=humoyun14uz&theme=tokyonight&hide_border=true" alt="Humoyun's GitHub streak" /> </p>
 
 ---
 
