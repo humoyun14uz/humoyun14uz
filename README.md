@@ -2,9 +2,9 @@
 
 ### Full-Stack Developer · JavaScript & TypeScript Enthusiast
 
-I build modern, responsive, and scalable web applications with a focus on clean architecture, maintainable code, accessible interfaces, and practical digital experiences.
+I build production-minded web applications from idea to deployment. My focus is creating reliable frontend experiences, well-structured backend services, and maintainable code that can grow with a product.
 
-I enjoy turning ideas into real products, working across the frontend and backend, and continuously improving my development workflow.
+I am continuously developing my skills in full-stack architecture, databases, testing, security, DevOps, and system design.
 
 <p align="left">
   <a href="https://github.com/humoyun14uz">
@@ -19,13 +19,14 @@ I enjoy turning ideas into real products, working across the frontend and backen
 
 ## About Me
 
-- 🚀 Building responsive and user-focused web applications
-- ⚛️ Creating modern interfaces with React and Next.js
-- 🔧 Developing backend services and REST APIs with Node.js
-- 🗄️ Working with relational and NoSQL databases
-- 🧠 Applying clean code, reusable architecture, and scalable patterns
-- 🧪 Interested in testing, performance, security, and developer experience
-- 📚 Always learning, building, and improving
+- 💻 Building complete web applications across the frontend and backend
+- ⚛️ Developing reusable, responsive interfaces with React and Next.js
+- 🔧 Designing REST APIs and backend services with Node.js
+- 🗄️ Modeling data and working with SQL and NoSQL databases
+- 🔐 Implementing validation, authentication, authorization, and secure API patterns
+- 🧪 Writing testable code and checking APIs with automated and manual tests
+- 🚀 Learning deployment, Docker, CI/CD, performance, and system design
+- 🤝 Interested in teamwork, code review, documentation, and clean Git workflows
 
 ---
 
@@ -71,16 +72,53 @@ I enjoy turning ideas into real products, working across the frontend and backen
 
 `Git` · `GitHub` · `Docker` · `Linux` · `Nginx` · `Jest` · `Postman` · `VS Code`
 
-### Engineering Practices
+---
 
-- RESTful API design and API documentation
-- Responsive design and accessibility
-- Component-based architecture
-- Database modeling and data validation
-- Error handling and secure authentication
-- Unit testing and API testing
-- Git workflows and clean commit history
-- Basic CI/CD and deployment workflows
+## Full-Stack Development Skills
+
+### Application Architecture
+
+- Structuring applications into reusable and maintainable modules
+- Separating UI, business logic, API, and data-access responsibilities
+- Designing reusable components, services, and utilities
+- Managing frontend state and asynchronous data flows
+- Building responsive and accessible user interfaces
+
+### Backend & API Engineering
+
+- Designing RESTful endpoints and consistent response formats
+- Request validation, centralized error handling, and logging
+- Authentication and role-based authorization
+- Pagination, filtering, search, and API documentation
+- Secure handling of environment variables and sensitive data
+
+### Database Engineering
+
+- Designing relational tables and document-based collections
+- Creating relationships, indexes, and database constraints
+- Writing efficient queries and using migrations
+- Using an ORM where it improves productivity and maintainability
+- Applying caching concepts with Redis when appropriate
+
+### Quality & Delivery
+
+- Writing readable, reusable, and type-safe code
+- Testing business logic and API behavior
+- Debugging with logs, browser tools, and API clients
+- Using branches, pull requests, reviews, and meaningful commits
+- Containerizing applications with Docker
+- Learning CI/CD and production deployment workflows
+
+---
+
+## Development Approach
+
+1. **Understand the problem** — clarify requirements and user flows.
+2. **Plan the solution** — choose the architecture, data model, and API structure.
+3. **Build in small steps** — create reusable components and focused services.
+4. **Validate quality** — test functionality, edge cases, responsiveness, and security.
+5. **Review and improve** — refactor duplicated code and optimize performance.
+6. **Document and deliver** — keep setup instructions, API details, and Git history clear.
 
 ---
 
@@ -88,19 +126,27 @@ I enjoy turning ideas into real products, working across the frontend and backen
 
 ### Journey Savior
 
-A web project focused on delivering a modern, intuitive, and user-friendly experience.
+A web application project focused on a modern, intuitive, and user-friendly experience. The project reflects my interest in responsive UI development, practical user flows, and product-focused implementation.
 
 ### Amiclinic
 
-A responsive healthcare website with a clean interface and structured user experience.
+A responsive healthcare website built with a clean interface and structured user experience. It demonstrates my focus on accessible layouts, organized components, and polished frontend presentation.
 
-> More projects and open-source work are coming soon.
+> More full-stack projects, API integrations, and open-source work are coming soon.
 
 ---
 
-## Currently Learning
+## Currently Learning & Improving
 
-`Advanced TypeScript` · `Next.js` · `NestJS` · `PostgreSQL` · `Docker` · `Testing` · `System Design` · `Cloud Deployment`
+`Advanced TypeScript` · `Next.js` · `NestJS` · `PostgreSQL` · `Docker` · `Testing` · `System Design` · `CI/CD` · `Cloud Deployment` · `Web Security`
+
+### Current Goals
+
+- Build and deploy complete full-stack applications
+- Improve backend architecture and database performance
+- Write more reliable unit and integration tests
+- Learn scalable system design and cloud fundamentals
+- Contribute to open-source projects
 
 ---
 
