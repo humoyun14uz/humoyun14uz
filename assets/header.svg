@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240" role="img" aria-label="Animated header: Hi, I'm Humoyun — Full‑Stack Developer">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#0f1720"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <mask id="typingMask">
+      <rect x="0" y="0" width="0" height="240" fill="#fff">
+        <animate attributeName="width" from="0" to="100%" dur="3.6s" fill="freeze" begin="0s"/>
+      </rect>
+    </mask>
+    <style>
+      .bg { fill: url(#g); }
+      .title { font: 700 30px 'Segoe UI', Roboto, Arial, sans-serif; fill: #e6edf3; }
+      .subtitle { font: 500 15px 'Segoe UI', Roboto, Arial, sans-serif; fill: #9fb1c4; }
+      .cursor { fill: #9fb1c4; }
+    </style>
+    <linearGradient id="sg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#1b6fb8" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#39d353" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#1b6fb8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1100" height="240" rx="8"/>
+
+  <g transform="translate(64,36)">
+    <g transform="translate(0,0)">
+      <circle cx="0" cy="0" r="18" fill="#111827" stroke="#24313c" stroke-width="1" filter="url(#glow)">
+        <animate attributeName="r" values="16;20;16" dur="4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="-2" y="4" fill="#ffd166" font-size="14" font-weight="700">JS</text>
+    </g>
+    <g transform="translate(56,0)">
+      <circle cx="0" cy="0" r="18" fill="#0b1220" stroke="#24313c" stroke-width="1">
+        <animate attributeName="opacity" values="0.8;1;0.8" dur="3.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="-6" y="4" fill="#60a5fa" font-size="14" font-weight="700">TS</text>
+    </g>
+    <g transform="translate(112,0)">
+      <circle cx="0" cy="0" r="18" fill="#0b1220" stroke="#24313c" stroke-width="1">
+        <animate attributeName="opacity" values="0.7;1;0.7" dur="4.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="-6" y="4" fill="#ffd86b" font-size="14" font-weight="700">Py</text>
+    </g>
+    <g transform="translate(168,0)">
+      <circle cx="0" cy="0" r="18" fill="#0b1220" stroke="#24313c" stroke-width="1">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="5s" repeatCount="indefinite"/>
+      </circle>
+      <text x="-3" y="4" fill="#94a3b8" font-size="12" font-weight="700">DB</text>
+    </g>
+  </g>
+
+  <g mask="url(#typingMask)">
+    <text class="title" x="64" y="140">Hi, I'm Humoyun 👋</text>
+    <text class="subtitle" x="64" y="170">Full‑Stack Developer — JavaScript · TypeScript · Python</text>
+  </g>
+
+  <rect class="cursor" x="380" y="122" width="6" height="26" rx="2">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" begin="3.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="-220" y="0" width="320" height="240" fill="url(#sg)">
+    <animate attributeName="x" from="-320" to="1200" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
