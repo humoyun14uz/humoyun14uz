@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="SQL icon">
+  <rect width="48" height="48" rx="8" fill="#0b1220"/>
+  <g>
+    <rect x="12" y="12" width="24" height="24" rx="4" fill="#0ea5a4"/>
+    <text x="24" y="28" font-family="Segoe UI, Roboto, Arial" font-size="10" font-weight="700" text-anchor="middle" fill="#052023">SQL</text>
+    <rect x="10" y="10" width="28" height="28" rx="6" fill="none" stroke="#7dd3fc" stroke-opacity="0.12" stroke-width="2">
+      <animate attributeName="stroke-opacity" values="0.12;0.9;0.12" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
