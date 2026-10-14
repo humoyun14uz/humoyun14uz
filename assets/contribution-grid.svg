@@ -1,0 +1,316 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="320" viewBox="0 0 1180 320" role="img" aria-label="GitHub style contribution mockup for 2022 to 2025">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .panel { fill: #0b1320; stroke: #1f2c38; stroke-width: 1; }
+      .title { font: 700 24px 'Segoe UI', Arial, sans-serif; fill: #e6edf3; }
+      .year { font: 600 13px 'Segoe UI', Arial, sans-serif; fill: #8b949e; }
+      .month { font: 10px 'Segoe UI', Arial, sans-serif; fill: #8b949e; }
+      .legend { font: 11px 'Segoe UI', Arial, sans-serif; fill: #8b949e; }
+      .cell0 { fill: #161b22; }
+      .cell1 { fill: #0e4429; }
+      .cell2 { fill: #006d32; }
+      .cell3 { fill: #26a641; }
+      .cell4 { fill: #39d353; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="1180" height="320"/>
+  <text class="title" x="30" y="34">Contribution overview</text>
+  <text class="legend" x="1040" y="34">GitHub style mockup</text>
+
+  <!-- 2022 -->
+  <g>
+    <rect class="panel" x="30" y="60" width="240" height="190" rx="10"/>
+    <text class="year" x="46" y="86">2022</text>
+    <g>
+      <text class="month" x="64" y="101">Jan</text>
+      <text class="month" x="90" y="101">Feb</text>
+      <text class="month" x="116" y="101">Mar</text>
+      <text class="month" x="142" y="101">Apr</text>
+      <text class="month" x="168" y="101">May</text>
+      <text class="month" x="194" y="101">Jun</text>
+      <text class="month" x="220" y="101">Jul</text>
+      <text class="month" x="246" y="101">Aug</text>
+      <text class="month" x="64" y="92">Sep</text>
+    </g>
+    <g>
+      <rect class="cell0" x="58" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell0" x="76" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell0" x="94" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell0" x="112" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell0" x="130" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="148" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="166" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="184" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="202" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="220" y="108" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="58" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="76" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="94" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="112" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="130" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="148" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="166" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="184" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell0" x="202" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell0" x="220" y="126" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="58" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="76" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="94" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="112" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="130" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="148" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="166" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="184" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="202" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="220" y="144" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="58" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="76" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="94" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="112" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="130" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="148" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="166" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="184" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="202" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="220" y="162" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="58" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="76" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="94" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="112" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="130" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="148" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="166" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="184" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="202" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="220" y="180" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="58" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell0" x="76" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="94" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="112" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="130" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="148" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="166" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="184" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="202" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell0" x="220" y="198" width="12" height="12" rx="2"/>
+    </g>
+  </g>
+
+  <!-- 2023 -->
+  <g>
+    <rect class="panel" x="290" y="60" width="240" height="190" rx="10"/>
+    <text class="year" x="306" y="86">2023</text>
+    <g>
+      <rect class="cell0" x="318" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell0" x="336" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="354" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="372" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="390" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="408" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="426" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="444" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="462" y="108" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="318" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="336" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="354" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="372" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="390" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="408" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="426" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="444" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="462" y="126" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="318" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="336" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="354" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="372" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="390" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="408" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="426" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="444" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="462" y="144" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="318" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="336" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="354" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="372" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="390" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="408" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="426" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="444" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="462" y="162" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="318" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="336" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="354" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="372" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="390" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="408" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="426" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="444" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="462" y="180" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="318" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="336" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="354" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="372" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="390" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="408" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="426" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="444" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="462" y="198" width="12" height="12" rx="2"/>
+    </g>
+  </g>
+
+  <!-- 2024 -->
+  <g>
+    <rect class="panel" x="550" y="60" width="240" height="190" rx="10"/>
+    <text class="year" x="566" y="86">2024</text>
+    <g>
+      <rect class="cell0" x="578" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="596" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="614" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="632" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="650" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="668" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="686" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="704" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="722" y="108" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="578" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="596" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="614" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="632" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="650" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="668" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="686" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="704" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="722" y="126" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="578" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="596" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="614" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="632" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="650" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="668" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="686" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="704" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="722" y="144" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="578" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="596" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="614" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="632" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="650" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="668" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="686" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="704" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="722" y="162" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="578" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="596" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="614" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="632" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="650" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="668" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="686" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="704" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="722" y="180" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="578" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="596" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="614" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="632" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="650" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="668" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="686" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="704" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="722" y="198" width="12" height="12" rx="2"/>
+    </g>
+  </g>
+
+  <!-- 2025 -->
+  <g>
+    <rect class="panel" x="810" y="60" width="240" height="190" rx="10"/>
+    <text class="year" x="826" y="86">2025</text>
+    <g>
+      <rect class="cell0" x="838" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="856" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="874" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="892" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="910" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="928" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="946" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="964" y="108" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="982" y="108" width="12" height="12" rx="2"/>
+
+      <rect class="cell1" x="838" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="856" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="874" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="892" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="910" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="928" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="946" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="964" y="126" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="982" y="126" width="12" height="12" rx="2"/>
+
+      <rect class="cell1" x="838" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="856" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="874" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="892" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="910" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="928" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="946" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="964" y="144" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="982" y="144" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="838" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="856" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="874" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="892" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="910" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="928" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="946" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="964" y="162" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="982" y="162" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="838" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="856" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="874" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="892" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="910" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="928" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="946" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="964" y="180" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="982" y="180" width="12" height="12" rx="2"/>
+
+      <rect class="cell0" x="838" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="856" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="874" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="892" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="910" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell4" x="928" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell3" x="946" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell2" x="964" y="198" width="12" height="12" rx="2"/>
+      <rect class="cell1" x="982" y="198" width="12" height="12" rx="2"/>
+    </g>
+  </g>
+
+  <g>
+    <text class="legend" x="32" y="280">Less</text>
+    <rect class="cell0" x="76" y="269" width="12" height="12" rx="2"/>
+    <rect class="cell1" x="94" y="269" width="12" height="12" rx="2"/>
+    <rect class="cell2" x="112" y="269" width="12" height="12" rx="2"/>
+    <rect class="cell3" x="130" y="269" width="12" height="12" rx="2"/>
+    <rect class="cell4" x="148" y="269" width="12" height="12" rx="2"/>
+    <text class="legend" x="166" y="280">More</text>
+  </g>
+</svg>
