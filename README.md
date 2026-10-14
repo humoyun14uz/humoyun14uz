@@ -1,6 +1,11 @@
-# Hi, I'm Humoyun 👋
+# Hi, I’m Humoyun 👋
 
-### Full-Stack Developer · JavaScript & TypeScript Enthusiast
+<p align="center">
+  <img src="./assets/contribution-grid.svg" alt="Contribution overview mockup" />
+</p>
+
+This is a GitHub-style contribution heatmap mockup for visual purposes only.
+It does not change the real GitHub contribution graph.
 
 I build production-minded web applications from idea to deployment. My focus is creating reliable frontend experiences, well-structured backend services, and maintainable code that can grow with a product.
 
