@@ -1,11 +1,12 @@
 # Hi, I’m Humoyun 👋
 
 <p align="center">
-  <img src="./assets/contribution-grid.svg" alt="Contribution overview mockup" />
+  <img src="./assets/header.svg" alt="Hi, I'm Humoyun — Full-Stack Developer" />
 </p>
 
-This is a GitHub-style contribution heatmap mockup for visual purposes only.
-It does not change the real GitHub contribution graph.
+<p align="center">
+  <img src="./assets/badge.svg" alt="Open to work" width="160" />
+</p>
 
 I build production-minded web applications from idea to deployment. My focus is creating reliable frontend experiences, well-structured backend services, and maintainable code that can grow with a team or a product.
 
@@ -40,15 +41,15 @@ I am continuously developing my skills in full-stack architecture, databases, te
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript" /> <strong>JavaScript</strong>
+  <img src="./assets/lang-js.svg" width="36" height="36" alt="JavaScript" /> <strong>JavaScript</strong>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" /> <strong>TypeScript</strong>
+  <img src="./assets/lang-ts.svg" width="36" height="36" alt="TypeScript" /> <strong>TypeScript</strong>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" /> <strong>Python</strong>
+  <img src="./assets/lang-py.svg" width="36" height="36" alt="Python" /> <strong>Python</strong>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sql" width="36" height="36" alt="SQL" /> <strong>SQL</strong>
+  <img src="./assets/lang-sql.svg" width="36" height="36" alt="SQL" /> <strong>SQL</strong>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Bash" /> <strong>Bash</strong>
+  <img src="./assets/lang-bash.svg" width="36" height="36" alt="Bash" /> <strong>Bash</strong>
 </p>
 
 <small>`JavaScript` · `TypeScript` · `Python` · `SQL` · `Bash`</small>
@@ -218,12 +219,18 @@ A responsive healthcare website built with a clean interface and structured user
 ---
 
 ## GitHub Statistics
- <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=humoyun14uz&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Humoyun's GitHub stats" />
-<p
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=humoyun14uz&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Humoyun's GitHub stats" />
+</p>
+
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humoyun14uz&layout=compact&hide_border=true&theme=tokyonight" alt="Humoyun's top languages" />
 </p>
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=humoyun14uz&theme=tokyonight&hide_border=true" alt="Humoyun's GitHub streak" /> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=humoyun14uz&theme=tokyonight&hide_border=true" alt="Humoyun's GitHub streak" />
+</p>
 
 ---
 
