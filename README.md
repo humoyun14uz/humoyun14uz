@@ -7,7 +7,7 @@
 This is a GitHub-style contribution heatmap mockup for visual purposes only.
 It does not change the real GitHub contribution graph.
 
-I build production-minded web applications from idea to deployment. My focus is creating reliable frontend experiences, well-structured backend services, and maintainable code that can grow with a product.
+I build production-minded web applications from idea to deployment. My focus is creating reliable frontend experiences, well-structured backend services, and maintainable code that can grow with a team or a product.
 
 I am continuously developing my skills in full-stack architecture, databases, testing, security, DevOps, and system design.
 
@@ -39,43 +39,105 @@ I am continuously developing my skills in full-stack architecture, databases, te
 
 ### Programming Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,sql,bash" alt="Programming languages" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript" /> <strong>JavaScript</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" /> <strong>TypeScript</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" /> <strong>Python</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sql" width="36" height="36" alt="SQL" /> <strong>SQL</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Bash" /> <strong>Bash</strong>
 </p>
 
-`JavaScript` · `TypeScript` · `Python` · `SQL` · `Bash`
+<small>`JavaScript` · `TypeScript` · `Python` · `SQL` · `Bash`</small>
+
+---
 
 ### Frontend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,sass,tailwind,redux" alt="Frontend technologies" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML5" /> <strong>HTML5</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS3" /> <strong>CSS3</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" /> <strong>React</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="Next.js" /> <strong>Next.js</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sass" width="36" height="36" alt="Sass" /> <strong>Sass</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36" alt="Tailwind CSS" /> <strong>Tailwind CSS</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redux" width="36" height="36" alt="Redux" /> <strong>Redux</strong>
 </p>
 
-`HTML5` · `CSS3` · `React` · `Next.js` · `Sass` · `Tailwind CSS` · `Redux`
+<small>`HTML5` · `CSS3` · `React` · `Next.js` · `Sass` · `Tailwind CSS` · `Redux`</small>
+
+---
 
 ### Backend Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,fastapi" alt="Backend technologies" />
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="Node.js" /> <strong>Node.js</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="36" height="36" alt="Express.js" /> <strong>Express.js</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nestjs" width="36" height="36" alt="NestJS" /> <strong>NestJS</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" /> <strong>Python</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi" width="36" height="36" alt="FastAPI" /> <strong>FastAPI</strong>
 </p>
 
-`Node.js` · `Express.js` · `NestJS` · `REST APIs` · `FastAPI` · `Authentication` · `Authorization`
+<p>
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24'><path fill='%238b949e' d='M12 17a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm6-6V9a6 6 0 0 0-12 0v2H4v10h16V11h-2z'/></svg>" width="18" height="18" alt="Authentication" /> <strong>Authentication</strong>
+  &nbsp;&nbsp;
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='18' height='18' viewBox='0 0 24 24'><path fill='%238b949e' d='M12 1L3 5v6c0 5.25 3.75 10.74 9 12 5.25-1.26 9-6.75 9-12V5l-9-4z'/></svg>" width="18" height="18" alt="Authorization" /> <strong>Authorization</strong>
+</p>
+
+<small>`Node.js` · `Express.js` · `NestJS` · `REST APIs` · `FastAPI` · `Authentication` · `Authorization`</small>
+
+---
 
 ### Databases & Data Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma" alt="Databases and data tools" />
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="PostgreSQL" /> <strong>PostgreSQL</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" /> <strong>MongoDB</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" width="36" height="36" alt="Redis" /> <strong>Redis</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" width="36" height="36" alt="Prisma" /> <strong>Prisma</strong>
 </p>
 
-`PostgreSQL` · `MongoDB` · `Redis` · `Prisma` · `Database Design` · `SQL Queries`
+<small>`PostgreSQL` · `MongoDB` · `Redis` · `Prisma` · `Database Design` · `SQL Queries`</small>
+
+---
 
 ### DevOps, Testing & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,jest,postman,vscode" alt="DevOps, testing, and development tools" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" /> <strong>Git</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="36" height="36" alt="GitHub" /> <strong>GitHub</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker" /> <strong>Docker</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux" /> <strong>Linux</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nginx" width="36" height="36" alt="Nginx" /> <strong>Nginx</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jest" width="36" height="36" alt="Jest" /> <strong>Jest</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" width="36" height="36" alt="Postman" /> <strong>Postman</strong>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VS Code" /> <strong>VS Code</strong>
 </p>
 
-`Git` · `GitHub` · `Docker` · `Linux` · `Nginx` · `Jest` · `Postman` · `VS Code`
+<small>`Git` · `GitHub` · `Docker` · `Linux` · `Nginx` · `Jest` · `Postman` · `VS Code`</small>
 
 ---
 
@@ -131,7 +193,7 @@ I am continuously developing my skills in full-stack architecture, databases, te
 
 ### Journey Savior
 
-A web application project focused on a modern, intuitive, and user-friendly experience. The project reflects my interest in responsive UI development, practical user flows, and product-focused implementation.
+A web application project focused on a modern, intuitive, and user-friendly experience. The project reflects my interest in responsive UI development, practical user flows, and product-focused improvements.
 
 ### Amiclinic
 
@@ -156,7 +218,7 @@ A responsive healthcare website built with a clean interface and structured user
 ---
 
 ## GitHub Statistics
- <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=humoyun14uz&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Humoyun's GitHub statistics" /> </p>
+ <p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=humoyun14uz&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Humoyun's GitHub stats" />
 <p
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humoyun14uz&layout=compact&hide_border=true&theme=tokyonight" alt="Humoyun's top languages" />
 </p>
