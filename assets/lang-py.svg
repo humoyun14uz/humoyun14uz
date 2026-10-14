@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Python icon">
+  <rect width="48" height="48" rx="8" fill="#0b1220"/>
+  <g>
+    <circle cx="18" cy="18" r="10" fill="#306998"/>
+    <circle cx="30" cy="30" r="10" fill="#ffd86b"/>
+    <text x="18" y="20" font-family="Segoe UI, Roboto, Arial" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">Py</text>
+    <text x="30" y="32" font-family="Segoe UI, Roboto, Arial" font-size="9" font-weight="700" fill="#111827" text-anchor="middle">Py</text>
+    <circle cx="24" cy="24" r="16" fill="none" stroke="#39d353" stroke-width="1.6" stroke-opacity="0.12">
+      <animateTransform attributeName="transform" type="rotate" from="0 24 24" to="360 24 24" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
