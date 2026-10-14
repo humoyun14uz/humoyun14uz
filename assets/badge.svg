@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48" role="img" aria-label="Open to work badge">
+  <defs>
+    <style>
+      .b { fill: #0f1720; stroke: #2b3440; stroke-width: 1; }
+      .label { font: 600 14px 'Segoe UI', Roboto, Arial, sans-serif; fill: #9be7a7; }
+    </style>
+  </defs>
+
+  <rect class="b" x="0" y="0" width="220" height="48" rx="10" />
+  <circle cx="22" cy="24" r="10" fill="#063f14">
+    <animate attributeName="r" values="8;11;8" dur="1.6s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="22" cy="24" r="5" fill="#16a34a" />
+  <text class="label" x="46" y="30">Open to work</text>
+</svg>
